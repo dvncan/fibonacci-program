@@ -1,0 +1,19 @@
+{
+  "name": "codetest",
+  "version": "1.0.0",
+  "description": "mylo code test",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "fib": "node.cmd cli.js"
+  },
+  "dependencies": {
+    "fibtastic": "^1.1.0",
+    "mathjs": "^5.4.1"
+  }
+
+}
